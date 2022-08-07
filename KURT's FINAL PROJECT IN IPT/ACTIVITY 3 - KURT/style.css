@@ -1,0 +1,99 @@
+body{
+   
+        font-family: "Sofia", sans-serif;
+        background-image: url(pexels-elīna-arāja-3377405.jpg);
+        text-align: center;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+
+}
+
+
+
+.home{
+    width: 100px;
+    height: 100px;
+    position:relative;
+    border: 1px solid;
+    top: 10px;
+    left: -590px;
+}
+
+.favorite{
+    position: relative;
+    top: 85px;
+    left: -550px;
+    width: 150x;
+    height:150px;
+}
+
+.favorite1{
+    position: relative;
+    top: -100Px;
+    left:10px;
+    margin-left: 200px;
+    margin-right: 10px;
+    text-align: center;
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+.user{
+    position: relative;
+    top: -20px;
+    left:-540px;
+    width: 130px;
+    height: 130px;
+}
+
+.user1{
+    position: relative;
+    top: -180px;
+    left:10px;
+    margin-left: 200px;
+    margin-right: 10px;
+    text-align: center;
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+.google:hover {transition: transform .3s; transform: scale(1.02);}
+.map:hover {transition: transform .3s; transform: scale(1.02);}
+.facebook:hover {transition: transform .3s; transform: scale(1.02);}
+.messenger:hover {transition: transform .3s; transform: scale(1.02);}
+.youtube:hover {transition: transform .3s; transform: scale(1.02);}
+.google1:hover {transition: transform .3s; transform: scale(1.02);}
+.map1:hover {transition: transform .3s; transform: scale(1.02);}
+.facebook1:hover {transition: transform .3s; transform: scale(1.02);}
+.messenger1:hover {transition: transform .3s; transform: scale(1.02);}
+.youtube1:hover {transition: transform .3s; transform: scale(1.02);}
+.bio:hover {transition: transform .3s; transform: scale(1.02);}
+
+.google1 {
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+.map1 {
+    border: solid black;
+    background-color: whitesmoke;
+}
+.messenger1 {
+    border: solid black;
+    background-color: whitesmoke;
+}
+.youtube1 {
+    border: solid black;
+    background-color: whitesmoke;
+}
+.facebook1 {
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+.bio {
+    border: solid black;
+    background-color: whitesmoke;
+}
