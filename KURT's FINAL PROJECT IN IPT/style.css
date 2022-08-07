@@ -1,0 +1,55 @@
+body{
+    font-family: "Sofia", sans-serif;
+    background-image: url(pexels-elīna-arāja-3377405.jpg);
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.activities{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.act{
+    width: 80%;
+    margin: 10px;
+    height: 35vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.act a{
+    height: 70%;
+}
+.icon{
+    height: 100%;
+}
+.title{
+    margin-top: 5px;
+}
+.welcome{
+    text-align: center;
+    font-size: 5rem;
+
+}
+
+.icon:hover{
+    height: 105%;
+}
+.footer p{
+    color: black;
+}
+.name{
+    text-align: center;
+    color: black;
+
+}    
+
+
+
+/*ACTIVITY 2*/

@@ -1,0 +1,1026 @@
+body{
+    font-family: "Sofia", sans-serif;
+    background-image: url(pexels-elīna-arāja-3377405.jpg);
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.h1:hover {transition: transform .3s; transform: scale(1.02);}
+.p1:hover {transition: transform .3s; transform: scale(1.02);}
+.p2:hover {transition: transform .3s; transform: scale(1.02);}
+.p3:hover {transition: transform .3s; transform: scale(1.02);}
+.p4:hover {transition: transform .3s; transform: scale(1.02);}
+.p5:hover {transition: transform .3s; transform: scale(1.02);}
+.homeicon:hover {transition: transform .3s; transform: scale(1.02);}
+.menu:hover {transition: transform .3s; transform: scale(1.02);}
+.favorite:hover {transition: transform .3s; transform: scale(1.02);}
+.favorite1:hover {transition: transform .3s; transform: scale(1.02);}
+.user:hover {transition: transform .3s; transform: scale(1.02);}
+.user1:hover {transition: transform .3s; transform: scale(1.02);}
+.user2:hover {transition: transform .3s; transform: scale(1.02);}
+.userinfo:hover {transition: transform .3s; transform: scale(1.02);}
+.motto:hover {transition: transform .3s; transform: scale(1.02);}
+.fullname:hover {transition: transform .3s; transform: scale(1.02);}
+.profile:hover {transition: transform .3s; transform: scale(1.02);}
+.profile1:hover {transition: transform .3s; transform: scale(1.02);}
+.pob1:hover {transition: transform .3s; transform: scale(1.02);}
+.cs1:hover {transition: transform .3s; transform: scale(1.02);}
+.r1:hover {transition: transform .3s; transform: scale(1.02);}
+.c1:hover {transition: transform .3s; transform: scale(1.02);}
+.h1:hover {transition: transform .3s; transform: scale(1.02);}
+.pob2:hover {transition: transform .3s; transform: scale(1.02);}
+.cs2:hover {transition: transform .3s; transform: scale(1.02);}
+.r2:hover {transition: transform .3s; transform: scale(1.02);}
+.c2:hover {transition: transform .3s; transform: scale(1.02);}
+.h2:hover {transition: transform .3s; transform: scale(1.02);}
+.bio:hover {transition: transform .3s; transform: scale(1.02);}
+.homeicon2:hover {transition: transform .3s; transform: scale(1.02);}
+.google:hover {transition: transform .3s; transform: scale(1.02);}
+.googlemap:hover {transition: transform .3s; transform: scale(1.02);}
+.facebook:hover {transition: transform .3s; transform: scale(1.02);}
+.messenger:hover {transition: transform .3s; transform: scale(1.02);}
+.youtube:hover {transition: transform .3s; transform: scale(1.02);}
+
+.family:hover { transform: scale(1.15);} 
+.family1:hover {  transform: scale(1.02);}
+.papa:hover {  transform: scale(1.02);}
+.mama:hover {  transform: scale(1.02);}
+.ate:hover {  transform: scale(1.02);}
+.bebe:hover {  transform: scale(1.02);}
+.kurt:hover {  transform: scale(1.02);}
+.abby:hover {  transform: scale(1.02);}
+.blair:hover {  transform: scale(1.02);}
+.img-with-text-below1:hover {  transform: scale(1.02);}
+.img-with-text-below2:hover {  transform: scale(1.02);}
+.img-with-text-below3:hover {  transform: scale(1.02);}
+.img-with-text-below4:hover {  transform: scale(1.02);}
+.img-with-text-below5:hover {  transform: scale(1.02);}
+.img-with-text-below6:hover {  transform: scale(1.02);}
+.img-with-text-below7:hover {  transform: scale(1.02);} 
+.bio2:hover {  transform: scale(1.02);} 
+.homeicon3:hover {  transform: scale(1.02);} 
+
+h1{
+    border: solid black;
+    background-color:whitesmoke;
+}
+
+.p1{
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+.p2{
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+.p3{
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+.p4{
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+.p5{
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+.homeicon{
+    width: 100px;
+    height: 100px;
+    position:relative;
+    top: 10px;
+    left: -590px;
+}
+
+.menu{
+    text-align: center;
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+.favorite{
+    position: relative;
+    top: 25px;
+    left: -550px;
+    width: 150x;
+    height:150px;
+}
+
+.favorite1{
+    position: relative;
+    top: -100Px;
+    left:10px;
+    margin-left: 200px;
+    margin-right: 10px;
+    text-align: center;
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+.user{
+    position: relative;
+    top: -10px;
+    left:-550px;
+    width: 100px;
+    height: 100px;
+}
+
+.user1{
+    position: relative;
+    top: -115px;
+    left:10px;
+    margin-left: 200px;
+    margin-right: 10px;
+    text-align: center;
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+.user2{
+    position: relative;
+    top: -150px;
+    left:10px;
+    margin-left: 200px;
+    margin-right: 10px;
+    text-align: center;
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+
+.userinfo {
+    text-align: center;
+    border: solid black;
+    background-color: whitesmoke;
+    
+}
+
+.motto  {
+    text-align:center;
+    border: solid black;
+    background-color: whitesmoke;
+    position: absolute;
+    top:300px;
+    right:300px;
+    left:40px;
+    padding-left:200px;
+    padding-right:200px;
+    padding-top:30px;
+    padding-bottom:28px;
+   
+}
+
+.fullname {
+    border: solid black;
+    background-color: whitesmoke;
+    position:absolute;
+    top:190px;
+    right:300px;
+    left:40px;
+    text-align: center;
+    padding-left:200px;
+    padding-right:200px;
+    padding-top:5px;
+    padding-bottom:20px;
+
+}
+
+.profile {
+    border: solid black;
+    background-color: whitesmoke;
+    position: absolute;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.profile11{
+    border: solid black;
+    background-color: whitesmoke;
+    position: absolute;
+    top:-10px;
+    left:-20px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 220px;
+    height: 220px;
+    
+}
+
+.pob1 {
+    position: relative;
+    top: 350px;
+    left: 300px;
+    margin-right: 1030px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid black;
+    background-color: whitesmoke;
+}
+.cs1 {
+    position: relative;
+    top: 350px;
+    left: 300px;
+    margin-right: 1030px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid black;
+    background-color: whitesmoke;
+}
+.r1 {
+    position: relative;
+    top: 350px;
+    left: 300px;
+    margin-right: 1030px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid black;
+    background-color: whitesmoke;
+}
+.c1 {
+    position: relative;
+    top: 350px;
+    left: 300px;
+    margin-right: 1030px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid black;
+    background-color: whitesmoke;
+}
+.h1{
+    position: relative;
+    top: 350px;
+    left: 300px;
+    margin-right: 1030px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+.pob2{
+    position: relative;
+    top: 15px;
+    left: 600px;
+    margin-right: 980px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid black;
+    background-color: whitesmoke;
+}
+.cs2 {
+    position: relative;
+    top: 15px;
+    left: 600px;
+    margin-right: 980px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid black;
+    background-color: whitesmoke;
+}
+.r2 {
+    position: relative;
+    top: 15px;
+    left: 600px;
+    margin-right: 980px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid black;
+    background-color: whitesmoke;
+}
+.c2 {
+    position: relative;
+    top: 15px;
+    left: 600px;
+    margin-right: 980px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid black;
+    background-color: whitesmoke;
+}
+.h2 {
+    position: relative;
+    top: 15px;
+    left: 600px;
+    margin-right: 980px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+.bio {
+    position: relative;
+    top:115px;
+    left: 145px;
+    margin-right: 144px;
+    padding: 10px 10px 10px 10px;
+    border: solid black;
+    background-color: whitesmoke;
+} 
+
+.homeicon2{
+    width: 100px;
+    height: 100px;
+    position:relative;
+    top: 10px;
+    left: -590px;
+}
+
+.family{
+    position: relative;
+    top: -60px;
+    left:-540px;
+    width: 100px;
+    height: 100px;
+}
+
+.family1{
+    position: relative;
+    top: -60px;
+    left:-540px;
+    width: 130px;
+    height: 130px;
+}
+
+.familyinfo{
+        text-align: center;
+        background-color: whitesmoke;
+        border: solid black;
+}
+
+.img-with-text-below1 {
+    position: absolute;
+    background-color: whitesmoke;
+    text-align: center;
+    top: 150px;
+    left: 35px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: solid black;
+}
+
+.papa {
+    width: 200px;
+    height: 200px;
+}
+
+.img-with-text-below2 {
+    position: absolute;
+    background-color: whitesmoke;
+    text-align: center;
+    top: 150px;
+    left: 400px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: solid black;
+}
+
+.mama {
+    width: 200px;
+    height: 200px;
+}
+
+.img-with-text-below3 {
+    position: absolute;
+    background-color: whitesmoke;
+    text-align: center;
+    top: 150px;
+    left: 750px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: solid black;
+}
+
+.ate {
+    width: 200px;
+    height: 200px;
+}
+
+.img-with-text-below4 {
+    position: absolute;
+    background-color: whitesmoke;
+    text-align: center;
+    top: 150px;
+    left: 1100px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: solid black;
+}
+
+.bebe {
+    width: 200px;
+    height: 200px;
+}
+
+.img-with-text-below5 {
+    position: absolute;
+    background-color: whitesmoke;
+    text-align: center;
+    top: 575px;
+    left: 220px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: solid black;
+}
+
+.kurt{
+    width: 200px;
+    height: 200px;
+}
+
+.img-with-text-below6 {
+    position: absolute;
+    background-color: whitesmoke;
+    text-align: center;
+    top: 575px;
+    left: 580px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: solid black;
+}
+
+.abby {
+    width: 200px;
+    height: 200px;
+}
+
+.img-with-text-below7 {
+    position: absolute;
+    background-color: whitesmoke;
+    text-align: center;
+    top: 575px;
+    left: 930px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: solid black;
+}
+
+.blair {
+    width: 200px;
+    height: 200px;
+}
+
+.bio2 {
+    position: relative;
+    top: 840px;
+    left: 145px;
+    margin-right: 144px;
+    background-color: whitesmoke;
+    padding: 10px 10px 10px 10px;
+    border: solid black;
+} 
+
+.homeicon3 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    position:relative;
+    top: 750px;
+    left: -590px;
+}
+
+.info1 {
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+   background-color: whitesmoke;
+    margin-top: 25px;
+    border: 1px solid;
+ 
+}
+
+.myname1 {
+    background-color: whitesmoke;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile1 {
+    position: absolute;
+   background-color: whitesmoke;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio1 {
+    text-align:center;
+   background-color: whitesmoke;
+    border: 1px solid;
+    position: absolute;
+    top:110px;
+    right:-50px;
+    left:0px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+.info2 {
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+   background-color: whitesmoke;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.myname2 {
+    background-color: whitesmoke;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile2{
+    position: absolute;
+   background-color: whitesmoke;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio2 {
+    text-align:center;
+   background-color: whitesmoke;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:-50px;
+    left: 40px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+.info3 {
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+   background-color: whitesmoke;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.myname3 {
+    background-color: whitesmoke;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile3{
+    position: absolute;
+   background-color: whitesmoke;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio3 {
+    text-align:center;
+   background-color: whitesmoke;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:50px;
+    left: 40px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+
+.info4 {
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+   background-color: whitesmoke;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.myname4{
+    background-color: whitesmoke;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile4{
+    position: absolute;
+   background-color: whitesmoke;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio4 {
+    text-align:center;
+   background-color: whitesmoke;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:100px;
+    left:40px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+
+.info5 {
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+   background-color: whitesmoke;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.myname5{
+    background-color: whitesmoke;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile5{
+    position: absolute;
+   background-color: whitesmoke;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio5 {
+    text-align:center;
+   background-color: whitesmoke;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:100px;
+    left:40px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.info6 {
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+   background-color: whitesmoke;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.myname6 {
+    background-color: whitesmoke;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile6{
+    position: absolute;
+   background-color: whitesmoke;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio6{
+    text-align:center;
+   background-color: whitesmoke;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:100px;
+    left:40px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+
+.info7{
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+   background-color: whitesmoke;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.myname7 {
+    background-color: whitesmoke;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile7{
+    position: absolute;
+   background-color: whitesmoke;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio7{
+    text-align:center;
+   background-color: whitesmoke;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:100px;
+    left:40px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+.birth {
+    position: relative;
+    top: 350px;
+    left: 300px;
+    margin-right: 1030px;
+   background-color: whitesmoke;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.status {
+    position: relative;
+    top: 350px;
+    left: 300px;
+    margin-right: 1030px;
+   background-color: whitesmoke;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.religion {
+    position: relative;
+    top: 350px;
+    left: 300px;
+    margin-right: 1030px;
+   background-color: whitesmoke;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.citizenship {
+    position: relative;
+    top: 350px;
+    left: 300px;
+    margin-right: 1030px;
+   background-color: whitesmoke;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.height {
+    position: relative;
+    top: 350px;
+    left: 300px;
+    margin-right: 1030px;
+   background-color: whitesmoke;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+
+.smr {
+    position: relative;
+    top: 15px;
+    left: 600px;
+    margin-right: 980px;
+   background-color: whitesmoke;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.single {
+    position: relative;
+    top: 15px;
+    left: 600px;
+    margin-right: 980px;
+   background-color: whitesmoke;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.rc {
+    position: relative;
+    top: 15px;
+    left: 600px;
+    margin-right: 980px;
+   background-color: whitesmoke;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.fil {
+    position: relative;
+    top: 15px;
+    left: 600px;
+    margin-right: 980px;
+   background-color: whitesmoke;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.paybtre {
+    position: relative;
+    top: 15px;
+    left: 600px;
+    margin-right: 980px;
+   background-color: whitesmoke;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+
+
+
+
+.activities{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.act{
+    width: 80%;
+    margin: 10px;
+    height: 35vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.act a{
+    height: 70%;
+}
+.icon{
+    height: 100%;
+}
+.title{
+    margin-top: 5px;
+}
+.welcome{
+    text-align: center;
+    font-size: 5rem;
+
+}
+
+.circle{
+    border-radius: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+    border: 7px solid rgb(63, 63, 63);
+}
+
+.icon:hover{
+    height: 105%;
+}
+.footer p{
+    color: black;
+}
+.name{
+    color: black;
+}
